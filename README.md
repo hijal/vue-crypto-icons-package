@@ -1,1 +1,1 @@
-# vue-test-crypto icons
+# vue-crypto icons
