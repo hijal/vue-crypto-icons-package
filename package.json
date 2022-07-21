@@ -1,6 +1,6 @@
 {
   "name": "vue-crypto-icons",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Cryptocurrency SVG Vue components.",
   "author": "Hijikesh Hijal",
   "scripts": {
@@ -23,7 +23,7 @@
     "coins"
   ],
   "dependencies": {
-    "vue": "^3.0.0"
+    "vue": "^2.0.8"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.6",
