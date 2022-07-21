@@ -2,8 +2,8 @@
   <svg
     xmlns="http://www.w3.org/2000/svg"
     xml:space="preserve"
-    :width="size"
-    :height="size"
+    width="24"
+    height="24"
     version="1.1"
     shape-rendering="geometricPrecision"
     text-rendering="geometricPrecision"
@@ -13,7 +13,7 @@
     viewBox="0 0 32 32"
   >
     <path
-      :fill="color"
+      fill="#F7931A"
       fill-rule="nonzero"
       d="M4030.06 2540.77c-273.24,1096.01 -1383.32,1763.02 -2479.46,1489.71 -1095.68,-273.24 -1762.69,-1383.39 -1489.33,-2479.31 273.12,-1096.13 1383.2,-1763.19 2479,-1489.95 1096.06,273.24 1763.03,1383.51 1489.76,2479.57l0.02 -0.02z"
     />
