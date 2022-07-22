@@ -1,4 +1,6 @@
-# vue-crypto icons
+<span align="center">
+  <h1>Feel Free to contribute</h1><hr/>
+</span>
 
 Usage example:
 
@@ -12,8 +14,10 @@ npm i vue-crypto-icons
 
 ```js
 <template>
+  <div>
     <BTC size="50" color="yellow" />
     <ETH size="50" color="#B2A4FF" />
+  </div>
 </template>
 
 <script>
@@ -25,6 +29,7 @@ export default {
     BTC, 
     ETH
   },
+  ...
 };
 </script>
 ```
