@@ -1,5 +1,5 @@
 <span align="center">
-  <h1>Feel Free to contribute</h1><hr/>
+  <h1>Feel Free to contribute</h1>
 </span>
 
 Usage example:
