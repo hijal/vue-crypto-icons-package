@@ -24,6 +24,7 @@ import CRO from "./components/CRO.vue";
 import LINK from "./components/LINK.vue";
 import NEAR from "./components/NEAR.vue";
 import ATOM from "./components/ATOM.vue";
+import XLM from "./components/XLM.vue";
 
 export {
   BTC,
@@ -52,4 +53,5 @@ export {
   LINK,
   NEAR,
   ATOM,
+  XLM,
 };
