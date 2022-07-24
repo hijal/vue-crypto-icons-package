@@ -36,6 +36,7 @@ import SAND from "./components/SAND.vue";
 import ICP from "./components/ICP.vue";
 import XTZ from "./components/XTZ.vue";
 import AXS from "./components/AXS.vue";
+import HBAR from "./components/HBAR.vue";
 
 export {
   BTC,
@@ -76,4 +77,5 @@ export {
   ICP,
   XTZ,
   AXS,
+  HBAR,
 };
