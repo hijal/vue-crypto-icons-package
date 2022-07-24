@@ -45,6 +45,7 @@ import EOS from "./components/EOS.vue";
 import QNT from "./components/QNT.vue";
 import TUSD from "./components/TUSD.vue";
 import HNT from "./components/HNT.vue";
+import BSV from "./components/BSV.vue";
 
 export {
   BTC,
@@ -94,4 +95,5 @@ export {
   QNT,
   TUSD,
   HNT,
+  BSV,
 };
