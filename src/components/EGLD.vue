@@ -12,7 +12,6 @@
     :width="size"
     :height="size"
   >
-    <style type="text/css"></style>
     <path
       fill-rule="evenodd"
       clip-rule="evenodd"
