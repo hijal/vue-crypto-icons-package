@@ -26,6 +26,7 @@ import NEAR from "./components/NEAR.vue";
 import ATOM from "./components/ATOM.vue";
 import XLM from "./components/XLM.vue";
 import XMR from "./components/XMR.vue";
+import BCH from "./components/BCH.vue";
 
 export {
   BTC,
@@ -56,4 +57,5 @@ export {
   ATOM,
   XLM,
   XMR,
+  BCH,
 };
