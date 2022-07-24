@@ -32,6 +32,7 @@ import APE from "./components/APE.vue";
 import FLOW from "./components/FLOW.vue";
 import MANA from "./components/MANA.vue";
 import VET from "./components/VET.vue";
+import SAND from "./components/SAND.vue";
 
 export {
   BTC,
@@ -68,4 +69,5 @@ export {
   FLOW,
   MANA,
   VET,
+  SAND,
 };
