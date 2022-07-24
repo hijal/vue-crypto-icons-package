@@ -37,6 +37,7 @@ import ICP from "./components/ICP.vue";
 import XTZ from "./components/XTZ.vue";
 import AXS from "./components/AXS.vue";
 import HBAR from "./components/HBAR.vue";
+import FIL from "./components/FIL.vue";
 
 export {
   BTC,
@@ -78,4 +79,5 @@ export {
   XTZ,
   AXS,
   HBAR,
+  FIL,
 };
