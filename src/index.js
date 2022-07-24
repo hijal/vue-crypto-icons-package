@@ -38,6 +38,7 @@ import XTZ from "./components/XTZ.vue";
 import AXS from "./components/AXS.vue";
 import HBAR from "./components/HBAR.vue";
 import FIL from "./components/FIL.vue";
+import THETA from "./components/THETA.vue";
 
 export {
   BTC,
@@ -80,4 +81,5 @@ export {
   AXS,
   HBAR,
   FIL,
+  THETA,
 };
