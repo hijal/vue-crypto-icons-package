@@ -41,6 +41,7 @@ import FIL from "./components/FIL.vue";
 import THETA from "./components/THETA.vue";
 import AAVE from "./components/AAVE.vue";
 import EGLD from "./components/EGLD.vue";
+import EOS from "./components/EOS.vue";
 
 export {
   BTC,
@@ -86,4 +87,5 @@ export {
   THETA,
   AAVE,
   EGLD,
+  EOS,
 };
