@@ -23,6 +23,7 @@ import ETC from "./components/ETC.vue";
 import CRO from "./components/CRO.vue";
 import LINK from "./components/LINK.vue";
 import NEAR from "./components/NEAR.vue";
+import ATOM from "./components/ATOM.vue";
 
 export {
   BTC,
@@ -50,4 +51,5 @@ export {
   CRO,
   LINK,
   NEAR,
+  ATOM,
 };
