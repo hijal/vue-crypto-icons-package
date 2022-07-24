@@ -21,6 +21,8 @@ import LTC from "./components/LTC.vue";
 import FTT from "./components/FTT.vue";
 import ETC from "./components/ETC.vue";
 import CRO from "./components/CRO.vue";
+import LINK from "./components/LINK.vue";
+import NEAR from "./components/NEAR.vue";
 
 export {
   BTC,
@@ -46,4 +48,6 @@ export {
   FTT,
   ETC,
   CRO,
+  LINK,
+  NEAR,
 };
