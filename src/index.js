@@ -31,6 +31,7 @@ import ALGO from "./components/ALGO.vue";
 import APE from "./components/APE.vue";
 import FLOW from "./components/FLOW.vue";
 import MANA from "./components/MANA.vue";
+import VET from "./components/VET.vue";
 
 export {
   BTC,
@@ -66,4 +67,5 @@ export {
   APE,
   FLOW,
   MANA,
+  VET,
 };
