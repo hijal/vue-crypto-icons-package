@@ -43,6 +43,7 @@ import AAVE from "./components/AAVE.vue";
 import EGLD from "./components/EGLD.vue";
 import EOS from "./components/EOS.vue";
 import QNT from "./components/QNT.vue";
+import TUSD from "./components/TUSD.vue";
 
 export {
   BTC,
@@ -90,4 +91,5 @@ export {
   EGLD,
   EOS,
   QNT,
+  TUSD,
 };
