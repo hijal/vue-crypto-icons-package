@@ -28,6 +28,7 @@ import XLM from "./components/XLM.vue";
 import XMR from "./components/XMR.vue";
 import BCH from "./components/BCH.vue";
 import ALGO from "./components/ALGO.vue";
+import APE from "./components/APE.vue";
 
 export {
   BTC,
@@ -60,4 +61,5 @@ export {
   XMR,
   BCH,
   ALGO,
+  APE,
 };
