@@ -40,6 +40,7 @@ import HBAR from "./components/HBAR.vue";
 import FIL from "./components/FIL.vue";
 import THETA from "./components/THETA.vue";
 import AAVE from "./components/AAVE.vue";
+import EGLD from "./components/EGLD.vue";
 
 export {
   BTC,
@@ -84,4 +85,5 @@ export {
   FIL,
   THETA,
   AAVE,
+  EGLD,
 };
