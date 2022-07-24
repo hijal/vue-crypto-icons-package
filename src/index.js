@@ -34,6 +34,7 @@ import MANA from "./components/MANA.vue";
 import VET from "./components/VET.vue";
 import SAND from "./components/SAND.vue";
 import ICP from "./components/ICP.vue";
+import XTZ from "./components/XTZ.vue";
 
 export {
   BTC,
@@ -72,4 +73,5 @@ export {
   VET,
   SAND,
   ICP,
+  XTZ,
 };
