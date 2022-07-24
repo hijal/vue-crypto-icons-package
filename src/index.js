@@ -39,6 +39,7 @@ import AXS from "./components/AXS.vue";
 import HBAR from "./components/HBAR.vue";
 import FIL from "./components/FIL.vue";
 import THETA from "./components/THETA.vue";
+import AAVE from "./components/AAVE.vue";
 
 export {
   BTC,
@@ -82,4 +83,5 @@ export {
   HBAR,
   FIL,
   THETA,
+  AAVE,
 };
