@@ -33,6 +33,7 @@ import FLOW from "./components/FLOW.vue";
 import MANA from "./components/MANA.vue";
 import VET from "./components/VET.vue";
 import SAND from "./components/SAND.vue";
+import ICP from "./components/ICP.vue";
 
 export {
   BTC,
@@ -70,4 +71,5 @@ export {
   MANA,
   VET,
   SAND,
+  ICP,
 };
