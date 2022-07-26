@@ -54,6 +54,7 @@ import RUNE from "./components/RUNE.vue";
 import FTM from "./components/FTM.vue";
 import MIOTA from "./components/MIOTA.vue";
 import XEC from "./components/XEC.vue";
+import USDN from "./components/USDN.vue";
 
 export {
   BTC,
@@ -112,4 +113,5 @@ export {
   FTM,
   MIOTA,
   XEC,
+  USDN,
 };
