@@ -48,6 +48,7 @@ import HNT from "./components/HNT.vue";
 import BSV from "./components/BSV.vue";
 import KCS from "./components/KCS.vue";
 import MKR from "./components/MKR.vue";
+import BTT from "./components/BTT.vue";
 
 export {
   BTC,
@@ -100,4 +101,5 @@ export {
   BSV,
   KCS,
   MKR,
+  BTT,
 };
