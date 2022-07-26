@@ -51,6 +51,7 @@ import MKR from "./components/MKR.vue";
 import BTT from "./components/BTT.vue";
 import ZEC from "./components/ZEC.vue";
 import RUNE from "./components/RUNE.vue";
+import FTM from "./components/FTM.vue";
 
 export {
   BTC,
@@ -106,4 +107,5 @@ export {
   BTT,
   ZEC,
   RUNE,
+  FTM,
 };
