@@ -1,0 +1,36 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    data-name="Layer 1"
+    viewBox="0 0 128 128"
+    :width="size"
+    :height="size"
+  >
+    <path
+      d="M64 74.13 34.3 56.87c-3.54 6.51-5.85 12.9-6 20.34-.3 19.7 16 35.67 35.67 35.67a35.67 35.67 0 0 0 35.7-35.67c0-6.76-1.94-13.18-5.89-20.39Z"
+      :fill="color"
+    />
+    <path
+      d="m64 21.92 17.39 26.16L64 58.19 46.6 48.08 64 21.92m0-10.45L38.38 50 64 64.88 89.61 50 64 11.47Z"
+      :fill="color"
+    />
+  </svg>
+</template>
+
+<script>
+export default {
+  name: "LDO",
+  props: {
+    size: {
+      type: [Number, String],
+      default: 24,
+    },
+    color: {
+      type: [String],
+      default: "#000000",
+    },
+  },
+};
+</script>
+
+<style scoped></style>

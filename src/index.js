@@ -73,6 +73,7 @@ import ZIL from "./components/ZIL.vue";
 import DASH from "./components/DASH.vue";
 import KSM from "./components/KSM.vue";
 import CAKE from "./components/CAKE.vue";
+import LDO from "./components/LDO.vue";
 
 export {
   BTC,
@@ -150,4 +151,5 @@ export {
   DASH,
   KSM,
   CAKE,
+  LDO,
 };
