@@ -92,6 +92,7 @@ import ONEINCH from "./components/1INCH.vue";
 import DCR from "./components/DCR.vue";
 import SNX from "./components/SNX.vue";
 import HOT from "./components/HOT.vue";
+import XDC from "./components/XDC.vue";
 
 export {
   BTC,
@@ -188,4 +189,5 @@ export {
   DCR,
   SNX,
   HOT,
+  XDC,
 };
