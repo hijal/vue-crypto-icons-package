@@ -69,6 +69,7 @@ import BAT from "./components/BAT.vue";
 import STX from "./components/STX.vue";
 import LRC from "./components/LRC.vue";
 import ENJ from "./components/ENJ.vue";
+import ZIL from "./components/ZIL.vue";
 
 export {
   BTC,
@@ -142,4 +143,5 @@ export {
   STX,
   LRC,
   ENJ,
+  ZIL,
 };
