@@ -59,6 +59,7 @@ import KLAY from "./components/KLAY.vue";
 import USDD from "./components/USDD.vue";
 import HT from "./components/HT.vue";
 import GRT from "./components/GRT.vue";
+import NEO from "./components/NEO.vue";
 
 export {
   BTC,
@@ -122,4 +123,5 @@ export {
   USDD,
   HT,
   GRT,
+  NEO,
 };
