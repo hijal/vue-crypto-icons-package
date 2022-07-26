@@ -98,6 +98,7 @@ import USTC from "./components/USTC.vue";
 import GT from "./components/GT.vue";
 import XYM from "./components/XYM.vue";
 import KDA from "./components/KDA.vue";
+import TFUEL from "./components/TFUEL.vue";
 
 export {
   BTC,
@@ -200,4 +201,5 @@ export {
   GT,
   XYM,
   KDA,
+  TFUEL,
 };
