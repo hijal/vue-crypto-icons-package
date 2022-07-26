@@ -61,6 +61,7 @@ import HT from "./components/HT.vue";
 import GRT from "./components/GRT.vue";
 import NEO from "./components/NEO.vue";
 import CHZ from "./components/CHZ.vue";
+import CRV from "./components/CRV.vue";
 
 export {
   BTC,
@@ -126,4 +127,5 @@ export {
   GRT,
   NEO,
   CHZ,
+  CRV,
 };
