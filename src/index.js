@@ -72,6 +72,7 @@ import ENJ from "./components/ENJ.vue";
 import ZIL from "./components/ZIL.vue";
 import DASH from "./components/DASH.vue";
 import KSM from "./components/KSM.vue";
+import CAKE from "./components/CAKE.vue";
 
 export {
   BTC,
@@ -148,4 +149,5 @@ export {
   ZIL,
   DASH,
   KSM,
+  CAKE,
 };
