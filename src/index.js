@@ -53,6 +53,7 @@ import ZEC from "./components/ZEC.vue";
 import RUNE from "./components/RUNE.vue";
 import FTM from "./components/FTM.vue";
 import MIOTA from "./components/MIOTA.vue";
+import XEC from "./components/XEC.vue";
 
 export {
   BTC,
@@ -110,4 +111,5 @@ export {
   RUNE,
   FTM,
   MIOTA,
+  XEC,
 };
