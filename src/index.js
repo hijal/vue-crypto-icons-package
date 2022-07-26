@@ -60,6 +60,7 @@ import USDD from "./components/USDD.vue";
 import HT from "./components/HT.vue";
 import GRT from "./components/GRT.vue";
 import NEO from "./components/NEO.vue";
+import CHZ from "./components/CHZ.vue";
 
 export {
   BTC,
@@ -124,4 +125,5 @@ export {
   HT,
   GRT,
   NEO,
+  CHZ,
 };
