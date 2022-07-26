@@ -87,6 +87,7 @@ import BTG from "./components/BTG.vue";
 import COMP from "./components/COMP.vue";
 import GNO from "./components/GNO.vue";
 import AMP from "./components/AMP.vue";
+import QTUM from "./components/QTUM.vue";
 
 export {
   BTC,
@@ -178,4 +179,5 @@ export {
   COMP,
   GNO,
   AMP,
+  QTUM,
 };
