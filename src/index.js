@@ -80,6 +80,7 @@ import AR from "./components/AR.vue";
 import XEM from "./components/XEM.vue";
 import MINA from "./components/MINA.vue";
 import KAVA from "./components/KAVA.vue";
+import CELO from "./components/CELO.vue";
 
 export {
   BTC,
@@ -164,4 +165,5 @@ export {
   XEM,
   MINA,
   KAVA,
+  CELO,
 };
