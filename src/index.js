@@ -68,6 +68,7 @@ import WAVES from "./components/WAVES.vue";
 import BAT from "./components/BAT.vue";
 import STX from "./components/STX.vue";
 import LRC from "./components/LRC.vue";
+import ENJ from "./components/ENJ.vue";
 
 export {
   BTC,
@@ -140,4 +141,5 @@ export {
   BAT,
   STX,
   LRC,
+  ENJ,
 };
