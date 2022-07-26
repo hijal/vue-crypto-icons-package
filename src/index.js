@@ -84,6 +84,7 @@ import CELO from "./components/CELO.vue";
 import TWT from "./components/TWT.vue";
 import NEXO from "./components/NEXO.vue";
 import BTG from "./components/BTG.vue";
+import COMP from "./components/COMP.vue";
 
 export {
   BTC,
@@ -172,4 +173,5 @@ export {
   TWT,
   NEXO,
   BTG,
+  COMP,
 };
