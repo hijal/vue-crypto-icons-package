@@ -55,6 +55,7 @@ import FTM from "./components/FTM.vue";
 import MIOTA from "./components/MIOTA.vue";
 import XEC from "./components/XEC.vue";
 import USDN from "./components/USDN.vue";
+import KLAY from "./components/KLAY.vue";
 
 export {
   BTC,
@@ -114,4 +115,5 @@ export {
   MIOTA,
   XEC,
   USDN,
+  KLAY,
 };
