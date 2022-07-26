@@ -70,6 +70,7 @@ import STX from "./components/STX.vue";
 import LRC from "./components/LRC.vue";
 import ENJ from "./components/ENJ.vue";
 import ZIL from "./components/ZIL.vue";
+import DASH from "./components/DASH.vue";
 
 export {
   BTC,
@@ -144,4 +145,5 @@ export {
   LRC,
   ENJ,
   ZIL,
+  DASH,
 };
