@@ -75,6 +75,7 @@ import KSM from "./components/KSM.vue";
 import CAKE from "./components/CAKE.vue";
 import LDO from "./components/LDO.vue";
 import CVX from "./components/CVX.vue";
+import FEI from "./components/FEI.vue";
 
 export {
   BTC,
@@ -154,4 +155,5 @@ export {
   CAKE,
   LDO,
   CVX,
+  FEI,
 };
