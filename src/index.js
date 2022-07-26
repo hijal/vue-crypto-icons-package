@@ -67,6 +67,7 @@ import GMT from "./components/GMT.vue";
 import WAVES from "./components/WAVES.vue";
 import BAT from "./components/BAT.vue";
 import STX from "./components/STX.vue";
+import LRC from "./components/LRC.vue";
 
 export {
   BTC,
@@ -138,4 +139,5 @@ export {
   WAVES,
   BAT,
   STX,
+  LRC,
 };
