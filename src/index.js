@@ -89,6 +89,7 @@ import GNO from "./components/GNO.vue";
 import AMP from "./components/AMP.vue";
 import QTUM from "./components/QTUM.vue";
 import ONEINCH from "./components/1INCH.vue";
+import DCR from "./components/DCR.vue";
 
 export {
   BTC,
@@ -182,4 +183,5 @@ export {
   AMP,
   QTUM,
   ONEINCH,
+  DCR,
 };
