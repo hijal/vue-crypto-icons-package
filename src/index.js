@@ -66,6 +66,7 @@ import PAXG from "./components/PAXG.vue";
 import GMT from "./components/GMT.vue";
 import WAVES from "./components/WAVES.vue";
 import BAT from "./components/BAT.vue";
+import STX from "./components/STX.vue";
 
 export {
   BTC,
@@ -136,4 +137,5 @@ export {
   GMT,
   WAVES,
   BAT,
+  STX,
 };
