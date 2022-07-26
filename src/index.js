@@ -93,6 +93,7 @@ import DCR from "./components/DCR.vue";
 import SNX from "./components/SNX.vue";
 import HOT from "./components/HOT.vue";
 import XDC from "./components/XDC.vue";
+import GALA from "./components/GALA.vue";
 
 export {
   BTC,
@@ -190,4 +191,5 @@ export {
   SNX,
   HOT,
   XDC,
+  GALA,
 };
