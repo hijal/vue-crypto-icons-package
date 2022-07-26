@@ -79,6 +79,7 @@ import FEI from "./components/FEI.vue";
 import AR from "./components/AR.vue";
 import XEM from "./components/XEM.vue";
 import MINA from "./components/MINA.vue";
+import KAVA from "./components/KAVA.vue";
 
 export {
   BTC,
@@ -162,4 +163,5 @@ export {
   AR,
   XEM,
   MINA,
+  KAVA,
 };
