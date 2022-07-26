@@ -81,6 +81,7 @@ import XEM from "./components/XEM.vue";
 import MINA from "./components/MINA.vue";
 import KAVA from "./components/KAVA.vue";
 import CELO from "./components/CELO.vue";
+import TWT from "./components/TWT.vue";
 
 export {
   BTC,
@@ -166,4 +167,5 @@ export {
   MINA,
   KAVA,
   CELO,
+  TWT,
 };
