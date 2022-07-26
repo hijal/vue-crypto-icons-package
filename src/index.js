@@ -86,6 +86,7 @@ import NEXO from "./components/NEXO.vue";
 import BTG from "./components/BTG.vue";
 import COMP from "./components/COMP.vue";
 import GNO from "./components/GNO.vue";
+import AMP from "./components/AMP.vue";
 
 export {
   BTC,
@@ -176,4 +177,5 @@ export {
   BTG,
   COMP,
   GNO,
+  AMP,
 };
