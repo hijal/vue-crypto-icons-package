@@ -76,6 +76,7 @@ import CAKE from "./components/CAKE.vue";
 import LDO from "./components/LDO.vue";
 import CVX from "./components/CVX.vue";
 import FEI from "./components/FEI.vue";
+import AR from "./components/AR.vue";
 
 export {
   BTC,
@@ -156,4 +157,5 @@ export {
   LDO,
   CVX,
   FEI,
+  AR,
 };
