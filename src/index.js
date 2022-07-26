@@ -100,6 +100,7 @@ import XYM from "./components/XYM.vue";
 import KDA from "./components/KDA.vue";
 import TFUEL from "./components/TFUEL.vue";
 import BORA from "./components/BORA.vue";
+import IOTX from "./components/IOTX.vue";
 
 export {
   BTC,
@@ -204,4 +205,5 @@ export {
   KDA,
   TFUEL,
   BORA,
+  IOTX,
 };
