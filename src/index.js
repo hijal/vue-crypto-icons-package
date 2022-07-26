@@ -96,6 +96,7 @@ import XDC from "./components/XDC.vue";
 import GALA from "./components/GALA.vue";
 import USTC from "./components/USTC.vue";
 import GT from "./components/GT.vue";
+import XYM from "./components/XYM.vue";
 
 export {
   BTC,
@@ -196,4 +197,5 @@ export {
   GALA,
   USTC,
   GT,
+  XYM,
 };
