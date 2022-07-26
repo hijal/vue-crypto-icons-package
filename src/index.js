@@ -77,7 +77,8 @@ import LDO from "./components/LDO.vue";
 import CVX from "./components/CVX.vue";
 import FEI from "./components/FEI.vue";
 import AR from "./components/AR.vue";
-import XEM from "./components/AR.vue";
+import XEM from "./components/XEM.vue";
+import MINA from "./components/MINA.vue";
 
 export {
   BTC,
@@ -160,4 +161,5 @@ export {
   FEI,
   AR,
   XEM,
+  MINA,
 };
