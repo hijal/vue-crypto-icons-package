@@ -74,6 +74,7 @@ import DASH from "./components/DASH.vue";
 import KSM from "./components/KSM.vue";
 import CAKE from "./components/CAKE.vue";
 import LDO from "./components/LDO.vue";
+import CVX from "./components/CVX.vue";
 
 export {
   BTC,
@@ -152,4 +153,5 @@ export {
   KSM,
   CAKE,
   LDO,
+  CVX,
 };
