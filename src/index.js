@@ -99,6 +99,7 @@ import GT from "./components/GT.vue";
 import XYM from "./components/XYM.vue";
 import KDA from "./components/KDA.vue";
 import TFUEL from "./components/TFUEL.vue";
+import BORA from "./components/BORA.vue";
 
 export {
   BTC,
@@ -202,4 +203,5 @@ export {
   XYM,
   KDA,
   TFUEL,
+  BORA,
 };
