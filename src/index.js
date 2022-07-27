@@ -1,8 +1,8 @@
 import BTC from "./components/BTC.vue";
 import ETH from "./components/ETH.vue";
-import Tether from "./components/Tether.vue";
+import USDT from "./components/Tether.vue";
 import USDC from "./components/USDC.vue";
-import LBTC from "./components/Bitcoin_lightning.vue";
+import LBTC from "./components/LBTC.vue";
 import BNB from "./components/BNB.vue";
 import BUSD from "./components/BUSD.vue";
 import XRP from "./components/XRP.vue";
@@ -105,7 +105,7 @@ import IOTX from "./components/IOTX.vue";
 export {
   BTC,
   ETH,
-  Tether,
+  USDT,
   USDC,
   LBTC,
   BNB,

@@ -23,7 +23,7 @@
 </template>
 <script>
 export default {
-  name: "Bitcoin lightning",
+  name: "LBTC",
   props: {
     size: {
       type: [Number, String],
