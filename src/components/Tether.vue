@@ -17,7 +17,7 @@
 </template>
 <script>
 export default {
-  name: "Tether",
+  name: "USDT",
   props: {
     size: {
       type: [Number, String],
