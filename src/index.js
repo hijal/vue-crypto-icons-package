@@ -1,6 +1,6 @@
 import BTC from "./components/BTC.vue";
 import ETH from "./components/ETH.vue";
-import USDT from "./components/Tether.vue";
+import USDT from "./components/USDT.vue";
 import USDC from "./components/USDC.vue";
 import LBTC from "./components/Bitcoin_lightning.vue";
 import BNB from "./components/BNB.vue";
