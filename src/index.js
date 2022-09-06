@@ -112,6 +112,7 @@ import LPT from "./components/LPT.vue";
 import ZRX from "./components/ZRX.vue";
 import ICX from "./components/ICX.vue";
 import JST from "./components/JST.vue";
+import IOST from "./components/IOST.vue";
 
 export {
   BTC,
@@ -228,4 +229,5 @@ export {
   ZRX,
   ICX,
   JST,
+  IOST,
 };
