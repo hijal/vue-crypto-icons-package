@@ -104,6 +104,7 @@ import IOTX from "./components/IOTX.vue";
 import ONE from "./components/ONE.vue";
 import OP from "./components/OP.vue";
 import ENS from "./components/ENS.vue";
+import ROSE from "./components/ROSE.vue";
 
 export {
   BTC,
@@ -212,4 +213,5 @@ export {
   ONE,
   OP,
   ENS,
+  ROSE,
 };
