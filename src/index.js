@@ -102,6 +102,7 @@ import TFUEL from "./components/TFUEL.vue";
 import BORA from "./components/BORA.vue";
 import IOTX from "./components/IOTX.vue";
 import ONE from "./components/ONE.vue";
+import OP from "./components/OP.vue";
 
 export {
   BTC,
@@ -208,4 +209,5 @@ export {
   BORA,
   IOTX,
   ONE,
+  OP
 };
