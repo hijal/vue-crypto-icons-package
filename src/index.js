@@ -107,6 +107,7 @@ import ENS from "./components/ENS.vue";
 import ROSE from "./components/ROSE.vue";
 import BAL from "./components/BAL.vue";
 import RSR from "./components/RSR.vue";
+import OMG from "./components/OMG.vue";
 
 export {
   BTC,
@@ -218,4 +219,5 @@ export {
   ROSE,
   BAL,
   RSR,
+  OMG,
 };
