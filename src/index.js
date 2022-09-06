@@ -108,6 +108,7 @@ import ROSE from "./components/ROSE.vue";
 import BAL from "./components/BAL.vue";
 import RSR from "./components/RSR.vue";
 import OMG from "./components/OMG.vue";
+import LPT from "./components/LPT.vue";
 
 export {
   BTC,
@@ -220,4 +221,5 @@ export {
   BAL,
   RSR,
   OMG,
+  LPT,
 };
