@@ -101,6 +101,7 @@ import KDA from "./components/KDA.vue";
 import TFUEL from "./components/TFUEL.vue";
 import BORA from "./components/BORA.vue";
 import IOTX from "./components/IOTX.vue";
+import ONE from "./components/ONE.vue";
 
 export {
   BTC,
@@ -206,4 +207,5 @@ export {
   TFUEL,
   BORA,
   IOTX,
+  ONE,
 };
