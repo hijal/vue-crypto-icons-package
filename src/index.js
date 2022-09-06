@@ -103,6 +103,7 @@ import BORA from "./components/BORA.vue";
 import IOTX from "./components/IOTX.vue";
 import ONE from "./components/ONE.vue";
 import OP from "./components/OP.vue";
+import ENS from "./components/ENS.vue";
 
 export {
   BTC,
@@ -209,5 +210,6 @@ export {
   BORA,
   IOTX,
   ONE,
-  OP
+  OP,
+  ENS,
 };
