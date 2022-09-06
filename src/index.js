@@ -110,6 +110,7 @@ import RSR from "./components/RSR.vue";
 import OMG from "./components/OMG.vue";
 import LPT from "./components/LPT.vue";
 import ZRX from "./components/ZRX.vue";
+import ICX from "./components/ICX.vue";
 
 export {
   BTC,
@@ -224,4 +225,5 @@ export {
   OMG,
   LPT,
   ZRX,
+  ICX,
 };
