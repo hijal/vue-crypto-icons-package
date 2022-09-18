@@ -5,6 +5,7 @@
 Usage example:
 
 ## Install
+[![npm](https://img.shields.io/npm/dm/vue-crypto-icons)](https://www.npmjs.com/package/vue-crypto-icons)
 
 ```sh
 npm i vue-crypto-icons
