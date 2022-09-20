@@ -116,6 +116,7 @@ import IOST from "./components/IOST.vue";
 import BTRST from "./components/BTRST.vue";
 import FLUX from "./components/FLUX.vue";
 import YFI from "./components/YFI.vue";
+import GUSD from "./components/GUSD.vue";
 
 export {
   BTC,
@@ -236,4 +237,5 @@ export {
   BTRST,
   FLUX,
   YFI,
+  GUSD,
 };
