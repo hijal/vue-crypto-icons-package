@@ -113,6 +113,7 @@ import ZRX from "./components/ZRX.vue";
 import ICX from "./components/ICX.vue";
 import JST from "./components/JST.vue";
 import IOST from "./components/IOST.vue";
+import BTRST from "./components/BTRST.vue";
 
 export {
   BTC,
@@ -230,4 +231,5 @@ export {
   ICX,
   JST,
   IOST,
+  BTRST,
 };
