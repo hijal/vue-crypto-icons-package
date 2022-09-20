@@ -127,6 +127,7 @@ import WAXP from "./components/WAXP.vue";
 import VGX from "./components/VGX.vue";
 import SC from "./components/SC.vue";
 import AUDIO from "./components/AUDIO.vue";
+import GLMR from "./components/GLMR.vue";
 
 export {
   BTC,
@@ -258,4 +259,5 @@ export {
   VGX,
   SC,
   AUDIO,
+  GLMR,
 };
