@@ -121,6 +121,7 @@ import ANKR from "./components/ANKR.vue";
 import GLM from "./components/GLM.vue";
 import HIVE from "./components/HIVE.vue";
 import SRM from "./components/SRM.vue";
+import ONT from "./components/ONT.vue";
 
 export {
   BTC,
@@ -246,4 +247,5 @@ export {
   GLM,
   HIVE,
   SRM,
+  ONT,
 };
