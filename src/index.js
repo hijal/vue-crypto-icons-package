@@ -120,6 +120,7 @@ import GUSD from "./components/GUSD.vue";
 import ANKR from "./components/ANKR.vue";
 import GLM from "./components/GLM.vue";
 import HIVE from "./components/HIVE.vue";
+import SRM from "./components/SRM.vue";
 
 export {
   BTC,
@@ -244,4 +245,5 @@ export {
   ANKR,
   GLM,
   HIVE,
+  SRM,
 };
