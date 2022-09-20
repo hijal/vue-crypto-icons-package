@@ -131,6 +131,7 @@ import GLMR from "./components/GLMR.vue";
 import IMX from "./components/IMX.vue";
 import POLY from "./components/POLY.vue";
 import ZEN from "./components/ZEN.vue";
+import XCH from "./components/XCH.vue";
 
 export {
   BTC,
@@ -266,4 +267,5 @@ export {
   IMX,
   POLY,
   ZEN,
+  XCH,
 };
