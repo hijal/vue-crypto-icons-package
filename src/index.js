@@ -123,6 +123,7 @@ import HIVE from "./components/HIVE.vue";
 import SRM from "./components/SRM.vue";
 import ONT from "./components/ONT.vue";
 import STORJ from "./components/STORJ.vue";
+import WAXP from "./components/WAXP.vue";
 
 export {
   BTC,
@@ -250,4 +251,5 @@ export {
   SRM,
   ONT,
   STORJ,
+  WAXP,
 };
