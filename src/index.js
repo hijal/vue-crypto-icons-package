@@ -132,6 +132,7 @@ import IMX from "./components/IMX.vue";
 import POLY from "./components/POLY.vue";
 import ZEN from "./components/ZEN.vue";
 import XCH from "./components/XCH.vue";
+import MXC from "./components/MXC.vue";
 
 export {
   BTC,
@@ -268,4 +269,5 @@ export {
   POLY,
   ZEN,
   XCH,
+  MXC,
 };
