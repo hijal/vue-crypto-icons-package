@@ -130,6 +130,7 @@ import AUDIO from "./components/AUDIO.vue";
 import GLMR from "./components/GLMR.vue";
 import IMX from "./components/IMX.vue";
 import POLY from "./components/POLY.vue";
+import ZEN from "./components/ZEN.vue";
 
 export {
   BTC,
@@ -264,4 +265,5 @@ export {
   GLMR,
   IMX,
   POLY,
+  ZEN,
 };
