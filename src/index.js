@@ -119,6 +119,7 @@ import YFI from "./components/YFI.vue";
 import GUSD from "./components/GUSD.vue";
 import ANKR from "./components/ANKR.vue";
 import GLM from "./components/GLM.vue";
+import HIVE from "./components/HIVE.vue";
 
 export {
   BTC,
@@ -242,4 +243,5 @@ export {
   GUSD,
   ANKR,
   GLM,
+  HIVE,
 };
