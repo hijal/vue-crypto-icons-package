@@ -128,6 +128,7 @@ import VGX from "./components/VGX.vue";
 import SC from "./components/SC.vue";
 import AUDIO from "./components/AUDIO.vue";
 import GLMR from "./components/GLMR.vue";
+import IMX from "./components/IMX.vue";
 
 export {
   BTC,
@@ -260,4 +261,5 @@ export {
   SC,
   AUDIO,
   GLMR,
+  IMX,
 };
