@@ -124,6 +124,7 @@ import SRM from "./components/SRM.vue";
 import ONT from "./components/ONT.vue";
 import STORJ from "./components/STORJ.vue";
 import WAXP from "./components/WAXP.vue";
+import VGX from "./components/VGX.vue";
 
 export {
   BTC,
@@ -252,4 +253,5 @@ export {
   ONT,
   STORJ,
   WAXP,
+  VGX,
 };
