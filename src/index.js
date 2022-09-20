@@ -117,6 +117,7 @@ import BTRST from "./components/BTRST.vue";
 import FLUX from "./components/FLUX.vue";
 import YFI from "./components/YFI.vue";
 import GUSD from "./components/GUSD.vue";
+import ANKR from "./components/ANKR.vue";
 
 export {
   BTC,
@@ -238,4 +239,5 @@ export {
   FLUX,
   YFI,
   GUSD,
+  ANKR,
 };
