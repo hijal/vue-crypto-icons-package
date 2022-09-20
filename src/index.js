@@ -122,6 +122,7 @@ import GLM from "./components/GLM.vue";
 import HIVE from "./components/HIVE.vue";
 import SRM from "./components/SRM.vue";
 import ONT from "./components/ONT.vue";
+import STORJ from "./components/STORJ.vue";
 
 export {
   BTC,
@@ -248,4 +249,5 @@ export {
   HIVE,
   SRM,
   ONT,
+  STORJ,
 };
