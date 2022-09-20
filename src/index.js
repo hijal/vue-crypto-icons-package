@@ -118,6 +118,7 @@ import FLUX from "./components/FLUX.vue";
 import YFI from "./components/YFI.vue";
 import GUSD from "./components/GUSD.vue";
 import ANKR from "./components/ANKR.vue";
+import GLM from "./components/GLM.vue";
 
 export {
   BTC,
@@ -240,4 +241,5 @@ export {
   YFI,
   GUSD,
   ANKR,
+  GLM,
 };
