@@ -126,6 +126,7 @@ import STORJ from "./components/STORJ.vue";
 import WAXP from "./components/WAXP.vue";
 import VGX from "./components/VGX.vue";
 import SC from "./components/SC.vue";
+import AUDIO from "./components/AUDIO.vue";
 
 export {
   BTC,
@@ -256,4 +257,5 @@ export {
   WAXP,
   VGX,
   SC,
+  AUDIO,
 };
