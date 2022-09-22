@@ -135,6 +135,7 @@ import XCH from "./components/XCH.vue";
 import MXC from "./components/MXC.vue";
 import RVN from "./components/RVN.vue";
 import LUNA from "./components/LUNA.vue";
+import OKB from "./components/OKB.vue";
 
 export {
   BTC,
@@ -274,4 +275,5 @@ export {
   MXC,
   RVN,
   LUNA,
+  OKB,
 };
