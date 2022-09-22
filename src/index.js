@@ -133,6 +133,7 @@ import POLY from "./components/POLY.vue";
 import ZEN from "./components/ZEN.vue";
 import XCH from "./components/XCH.vue";
 import MXC from "./components/MXC.vue";
+import RVN from "./components/RVN.vue";
 
 export {
   BTC,
@@ -270,4 +271,5 @@ export {
   ZEN,
   XCH,
   MXC,
+  RVN,
 };
