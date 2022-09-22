@@ -134,6 +134,7 @@ import ZEN from "./components/ZEN.vue";
 import XCH from "./components/XCH.vue";
 import MXC from "./components/MXC.vue";
 import RVN from "./components/RVN.vue";
+import LUNA from "./components/LUNA.vue";
 
 export {
   BTC,
@@ -272,4 +273,5 @@ export {
   XCH,
   MXC,
   RVN,
+  LUNA,
 };
