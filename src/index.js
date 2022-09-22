@@ -140,6 +140,7 @@ import KNC from "./components/KNC.vue";
 import CSPR from "./components/CSPR.vue";
 import SXP from "./components/SXP.vue";
 import UMA from "./components/UMA.vue";
+import CHSB from "./components/CHSB.vue";
 
 export {
   BTC,
@@ -284,4 +285,5 @@ export {
   CSPR,
   SXP,
   UMA,
+  CHSB,
 };
