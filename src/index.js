@@ -138,6 +138,7 @@ import LUNA from "./components/LUNA.vue";
 import OKB from "./components/OKB.vue";
 import KNC from "./components/KNC.vue";
 import CSPR from "./components/CSPR.vue";
+import SXP from "./components/SXP.vue";
 
 export {
   BTC,
@@ -280,4 +281,5 @@ export {
   OKB,
   KNC,
   CSPR,
+  SXP,
 };
