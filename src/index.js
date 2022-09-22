@@ -141,6 +141,7 @@ import CSPR from "./components/CSPR.vue";
 import SXP from "./components/SXP.vue";
 import UMA from "./components/UMA.vue";
 import CHSB from "./components/CHSB.vue";
+import WOO from "./components/WOO.vue";
 
 export {
   BTC,
@@ -286,4 +287,5 @@ export {
   SXP,
   UMA,
   CHSB,
+  WOO,
 };
