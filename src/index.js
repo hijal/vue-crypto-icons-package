@@ -142,6 +142,7 @@ import SXP from "./components/SXP.vue";
 import UMA from "./components/UMA.vue";
 import CHSB from "./components/CHSB.vue";
 import WOO from "./components/WOO.vue";
+import SCRT from "./components/SCRT.vue";
 
 export {
   BTC,
@@ -288,4 +289,5 @@ export {
   UMA,
   CHSB,
   WOO,
+  SCRT,
 };
