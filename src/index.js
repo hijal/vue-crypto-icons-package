@@ -144,6 +144,7 @@ import CHSB from "./components/CHSB.vue";
 import WOO from "./components/WOO.vue";
 import SCRT from "./components/SCRT.vue";
 import PLA from "./components/PLA.vue";
+import DGB from "./components/DGB.vue";
 
 export {
   BTC,
@@ -292,4 +293,5 @@ export {
   WOO,
   SCRT,
   PLA,
+  DGB,
 };
