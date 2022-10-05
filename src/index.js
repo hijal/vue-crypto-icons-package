@@ -145,6 +145,7 @@ import WOO from "./components/WOO.vue";
 import SCRT from "./components/SCRT.vue";
 import PLA from "./components/PLA.vue";
 import DGB from "./components/DGB.vue";
+import POWR from './components/POWR.vue'
 
 export {
   BTC,
@@ -294,4 +295,5 @@ export {
   SCRT,
   PLA,
   DGB,
+  POWR
 };
